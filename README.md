@@ -38,3 +38,9 @@
     * Build pipeline load to AWS S3
 12. Create AWS Glue Crawler to explore schema and save to database
 13. Query Real Time data by Amazon Athana
+---
+## Results
+![load_data_to_s3](images/loaddatatos3.jpeg)
+![aws_crawler_log](images/awsclawers.jpeg)
+![data_before_10_s](images/before10s.jpeg)
+![data_after_10_s](images/after10s.jpeg)
